@@ -1,16 +1,20 @@
-### Hi there 👋
+```bash
+>> neofetch
+```
 
-<!--
-**l4tt-byfron/l4tt-byfron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="left" src="https://cdn.discordapp.com/attachments/1056054502593155165/1056816590198419489/matching_icons_.jpg" width="189"/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```py
+  Name : N..
+  Skillset : Python, Go, Php, Node, Skript, Java, C++
+  Discord  : 873425208869015594
+  Hobbies  : [
+   Application Development,   Utility Development,
+   Command-Line Applications,
+   Web(Exploitation, Crawling, ExploitFrameworks)
+  ],
+  Projects : [ 
+    runesoftware, iauth, fedsearch
+  ]
+  
+```
